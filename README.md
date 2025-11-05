@@ -1,5 +1,4 @@
 # darreid.github.io
-text info
 
 linode
 
