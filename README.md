@@ -10,4 +10,4 @@ yubikey
 
 ?
 
-tailscale
+tskey-auth
