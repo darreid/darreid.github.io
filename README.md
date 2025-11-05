@@ -1,12 +1,12 @@
 # darreid.github.io
 
-linode
+lin
 
-1984.hosting
+1984
 
-brax.me
+brax
 
-yubikey
+yk
 
 ?
 
